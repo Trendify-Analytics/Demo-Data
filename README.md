@@ -1,2 +1,2 @@
 # Demo-Data
-Demo Data Trendify Segmentation
+Demo Data for Trendify Segmentation
